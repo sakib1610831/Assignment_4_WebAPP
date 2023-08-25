@@ -1,0 +1,19 @@
+
+.for {
+  margin-top: 30px;
+  margin-left: -40px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  color: white;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+.search{
+  width: 80%;
+  text-align: center;
+}
